@@ -13,7 +13,7 @@ Originally written by [Bjørn Mork](https://git.mork.no/?p=wwan.git;a=blob_plain
 - [Supported Hardware](#supported-hardware)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Usage on Linux](#usage-on-linux)
 - [Usage on Android (via ADB)](#usage-on-android-via-adb)
 - [USB Composition Reference](#usb-composition-reference)
 - [How It Works](#how-it-works)
@@ -268,7 +268,7 @@ If Perl module installation on the target is impractical, run the script from a 
 
 ---
 
-## Usage
+## Usage on Linux
 
 ```
 scripts_swi_setusbcomp.pl [options]
